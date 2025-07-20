@@ -11,19 +11,19 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "hello@developer.com",
-    href: "mailto:hello@developer.com"
+    value: "amgathatwa@gmail.com",
+    href: "mailto:amgathatwa@gmail.com"
   },
   {
     icon: Phone,
     label: "WhatsApp",
-    value: "+1 (555) 123-4567",
-    href: "https://wa.me/1555123456"
+    value: "+254 727498542",
+    href: "https://wa.me/254727498542"
   },
   {
     icon: MapPin,
     label: "Location",
-    value: "Tech Hub, Digital City",
+    value: "Nairobi, Kenya",
     href: "#"
   }
 ];
@@ -32,20 +32,20 @@ const socialLinks = [
   {
     icon: Github,
     label: "GitHub",
-    href: "https://github.com/username",
-    username: "@username"
+    href: "https://github.com/Ssatwa",
+    username: "@Ssatwa"
   },
   {
     icon: Linkedin,
     label: "LinkedIn",
-    href: "https://linkedin.com/in/username",
-    username: "/in/username"
+    href: "https://linkedin.com/in/AlexGathatwa",
+    username: "@AlexGathatwa"
   },
   {
     icon: MessageSquare,
     label: "Twitter",
-    href: "https://twitter.com/username",
-    username: "@username"
+    href: "https://twitter.com/AlGathatwa",
+    username: "@AlGathatwa"
   }
 ];
 

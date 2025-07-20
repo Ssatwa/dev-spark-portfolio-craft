@@ -31,14 +31,20 @@ export function Footer() {
               solutions and empowering others through technology education.
             </p>
             <div className="flex gap-4">
-              <Button size="icon" variant="ghost" className="hover:text-primary">
-                <Github className="h-5 w-5" />
+              <Button size="icon" variant="ghost" className="hover:text-primary" asChild>
+                <a href="https://github.com/Ssatwa" target="_blank" rel="noopener noreferrer">
+                  <Github className="h-5 w-5" />
+                </a>
               </Button>
-              <Button size="icon" variant="ghost" className="hover:text-primary">
-                <Linkedin className="h-5 w-5" />
+              <Button size="icon" variant="ghost" className="hover:text-primary" asChild>
+                <a href="https://linkedin.com/in/AlexGathatwa" target="_blank" rel="noopener noreferrer">
+                  <Linkedin className="h-5 w-5" />
+                </a>
               </Button>
-              <Button size="icon" variant="ghost" className="hover:text-primary">
-                <Mail className="h-5 w-5" />
+              <Button size="icon" variant="ghost" className="hover:text-primary" asChild>
+                <a href="mailto:amgathatwa@gmail.com">
+                  <Mail className="h-5 w-5" />
+                </a>
               </Button>
             </div>
           </div>

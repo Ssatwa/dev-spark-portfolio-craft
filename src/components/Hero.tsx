@@ -24,11 +24,12 @@ export function Hero() {
         <div className="text-center text-white max-w-4xl mx-auto">
           <div className="animate-fade-in">
             <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
+              <span className="text-white text-3xl md:text-4xl block mb-2">Hi, I'm</span>
               <span className="bg-gradient-primary bg-clip-text text-transparent">
-                Software Developer
+                Alex Gathatwa
               </span>
               <br />
-              <span className="text-white">& ICT Trainer</span>
+              <span className="text-white text-3xl md:text-4xl">Software Developer & ICT Trainer</span>
             </h1>
             
             <p className="text-xl md:text-2xl mb-8 text-gray-200 max-w-2xl mx-auto leading-relaxed">
